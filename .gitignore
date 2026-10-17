@@ -1,0 +1,44 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# ---------- IDE / 编辑器 ----------
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+
+# ---------- 操作系统 ----------
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ---------- 训练 / 推理产物 ----------
+runs/
+weights/last.pt
+*.log
+output/
+outputs/
+
+# ---------- 本地临时文件 ----------
+.tmp_work/
+*.tmp
+
+# ---------- 不公开的本地文档 ----------
+# 作品说明文档只保留在本地，不随仓库发布
+docs/
