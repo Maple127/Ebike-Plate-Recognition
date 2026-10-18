@@ -294,7 +294,6 @@ python main.py
 - [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5) —— 目标检测框架（`models/`、`utils/` 目录来源于此）。
 - [CnOCR](https://github.com/breezedeus/cnocr) —— 中文 OCR 识别引擎。
 - [Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) —— 中文车牌检测与识别的实现参考。
-- [plate_dataset636](https://github.com/VisionMillionDataStudio/plate_dataset636) —— 车牌数据集参考。
 
 感谢开源社区的工作，让本项目可以专注于业务逻辑与后处理策略的实现。
 
